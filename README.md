@@ -1,1 +1,1 @@
-I made holy grail with the help of the grid display.
+I made a web page with the help of the grid display.
